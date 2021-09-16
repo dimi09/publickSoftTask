@@ -7,9 +7,9 @@
  ◦ MySQL 5.x
  ◦ Node.js 6.x
 * Create an empty database with name: springbootcrud
-* You can also import the sql file for the suplier table with custom data entries
+* You can also import the springbootcrud_supplier.sql file for the suplier table with custom data entries
 * Open the file: springbootcrud-webapp/src/main/resources/application.properties and
-  modify the following properties, depending on your MySQL installation:
+  modify the following properties, depending on your MySQL installation: 
  ◦ spring.datasource.username=root
  ◦ spring.datasource.password=root
 * Run the Application.class 
